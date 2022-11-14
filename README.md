@@ -13,6 +13,7 @@ Install the dependencies and start download.
 
 ```sh
 pip install pytube
+pip install halo
 python youTubeDownloader.py
 ... (Choose File Type)
 ... (Enter URL)
