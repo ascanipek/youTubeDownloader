@@ -65,7 +65,7 @@ Bunları kendi uygulamanızda nasıl kullanacağınıza ilişkin talimatlar aşa
 
 | Eklentiler |
 [pytube](https://github.com/pytube/pytube)
-[hale](https://github.com/manrajgrover/halo)
+[halo](https://github.com/manrajgrover/halo) 
 
 ## Gelişim
 
