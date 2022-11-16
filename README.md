@@ -35,4 +35,42 @@ Want to contribute? Great!
 
 MIT
 
-**Free Software, Yeah!**
+**Free Software!**
+
+# Youtube indirici
+## _YouTube Video ve Müzik İndirici_
+
+[![Derleme Durumu](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+YouTube Downloader, python tabanlı bir video veya mp3 indiricisidir.
+
+## Kurulum
+
+Bağımlılıkları kurun ve indirmeye başlayın.
+
+```sh
+pip install pytube
+pip install halo
+python youTubeDownloader.py
+... (Choose File Type)
+... (Enter URL)
+```
+
+## Eklentiler
+
+YouTubeDownloader şu anda aşağıdaki modüllerle genişletilmiştir.
+Bunları kendi uygulamanızda nasıl kullanacağınıza ilişkin talimatlar aşağıda verilmiştir.
+
+| Eklentiler |
+[pytube](https://github.com/pytube/pytube)
+[hale](https://github.com/manrajgrover/halo)
+
+## Gelişim
+
+Katkıda bulunmak ister misiniz? Harika!
+
+## Lisans
+
+MİT
+
+**Özgür Yazılım!**
